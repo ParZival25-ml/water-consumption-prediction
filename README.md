@@ -2,6 +2,7 @@
 The primary target of this project is to create a machine learning based model to forecast water consumption 
 with high accuracy. By analyzing daily water consumption data and different factors like temperature, 
 humidity, season factor, holidays, and number of people in a house, project aims to: 
+
 • Provide accurate water consumption predictions. 
 
 • Examine many models to determine their accuracy. 
