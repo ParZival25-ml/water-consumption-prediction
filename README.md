@@ -1,4 +1,13 @@
-📊 Combined Model Project: Water Consumption Forecasting
+📊 Water Consumption Prediction Project: 
+The primary target of this project is to create a machine learning based model to forecast water consumption 
+with high accuracy. By analyzing daily water consumption data and different factors like temperature, 
+humidity, season factor, holidays, and number of people in a house, project aims to: 
+• Provide accurate water consumption predictions. 
+• Examine many models to determine their accuracy. 
+• Provide clear insights for effective resource planning and informed policymaking. 
+• Consider sustainable water resource management by reducing wastage and optimizing allocation.
+This project is motivated by growing demand of water resources which is due to rapid increase of urbanization and population. Since water is a limited resource, this project shows how important precise forecasting is, which will promote the effective use of water. Additionally, it also aims to establish long-term capacities that will help in future planning for water infrastructures and in management of resources as well as to provide well-organized plan to minimize resource allocation to prevent major shortages.
+
 This project presents a comparative analysis of multiple machine learning and time series forecasting models for predicting water consumption in litres. The models included are:
 
 ✅ Random Forest Regressor
