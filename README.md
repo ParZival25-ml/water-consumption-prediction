@@ -79,5 +79,5 @@ The models are trained and tested on a dataset containing:
 - 👨‍👩‍👧 Household Size
 - 💦 Water consumption (`Unit(Litre)`)
 
-The target variable - "Unit(Litre)"
+The target variable - `Unit(Litre)`
 
