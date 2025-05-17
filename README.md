@@ -65,7 +65,7 @@ Each model includes:
 
 📂 Structure
 
-The entire implementation is contained in a single Python file: Major combined model.py.
+The entire implementation is contained in a single Python file: `Major combined model.py`.
 
 ⚠️ **Note**: The file reads from `merged.xlsx`. You must ensure this Excel file is available in your working directory or update the path in the script accordingly.
 
