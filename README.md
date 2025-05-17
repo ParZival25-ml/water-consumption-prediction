@@ -43,21 +43,28 @@ This project includes two datasets in the `data/` folder:
 Ensure paths in the code (e.g., `pd.read_excel()`) match the location of these files (`data/merged.xlsx`).
 
 📌 Objectives
+
 Build and evaluate different forecasting models
 
 Compare model performance using MSE, RMSE and R² Score.
 
 Visualize predictions, residuals, and feature correlations
 
+
 📷 Visualizations
+
 Each model includes:
 
-Actual vs Predicted Line Plots
-Scatter Plots
-Residual Analysis
-Correlation Heatmaps
+- Actual vs Predicted Line Plots
+
+- Scatter Plots
+
+- Residual Analysis
+
+- Correlation Heatmaps
 
 📂 Structure
+
 The entire implementation is contained in a single Python file: Major combined model.py.
 
 ⚠️ **Note**: The file reads from `merged.xlsx`. You must ensure this Excel file is available in your working directory or update the path in the script accordingly.
